@@ -70,7 +70,7 @@ You should know what sam, bam, and bed files are. [Too learn click](http://softw
 
 To retrieve all the NGS data utilzied in the research please see the [Data](#Data) section below.
 
-To go to the python codes for RPKM calculation, subsampling, gene annotation, and normalization please [click](https://github.com/CompGenomeLab/globalNERepair/tree/master/Python_Scripts).
+To go to the python codes for RPKM calculation, subsampling, gene annotation, and normalization please [click](https://github.com/ArdaCet/RepairPrediction_Preprocessing/blob/main/Python_Scripts/RPKM.py).
 
 To go to the preprocessing pipelines for the [XR-seq](https://github.com/ArdaCet/RepairPrediction_Preprocessing/tree/main/pipelines/My_XR_seq.sh), [damage-seq](https://github.com/ArdaCet/RepairPrediction_Preprocessing/tree/main/pipelines/My_Damage_seq.sh), [ChIP-seq](https://github.com/ArdaCet/RepairPrediction_Preprocessing/tree/main/pipelines/My_Chip_seq.sh), and [DNase-seq](https://github.com/ArdaCet/RepairPrediction_Preprocessing/tree/main/pipelines/My_DNAse_seq.sh) 
 
@@ -84,7 +84,7 @@ To go to the preprocessing pipelines for the [XR-seq](https://github.com/ArdaCet
  
   * After downsampling the corresponding [.BED](http://software.broadinstitute.org/software/igv/?q=book/export/html/16) file, find read overlaps using the subsampled data and continue to apply exact same steps as your first run.
  
-4. Convert read count values to [RPKM values](https://github.com/CompGenomeLab/globalNERepair/blob/master/Python_Scripts/RPKM.py).
+4. Convert read count values to [RPKM values](https://github.com/ArdaCet/RepairPrediction_Preprocessing/blob/main/Python_Scripts/RPKM.py).
 
 5. Collect the outputs of the each sequencing pipeline for filtering and [normalizing](https://github.com/ArdaCet/RepairPrediction_Preprocessing/blob/main/Python_Scripts/DMG_Replicate-A_filtering.py).
 
