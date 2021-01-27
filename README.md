@@ -194,7 +194,7 @@ Also, depending on the sequencing data quality, deduplicates might need to be re
 #  Author
 Arda Cetin
 
-To check out my [profile](https://github.com/ArdaCet)
+To check out my other [repository](https://github.com/CompGenomeLab/globalNERepair)
 
 To reach me about any question please send me an [email](mailto:ardacetin_work@hotmail.com).
 
