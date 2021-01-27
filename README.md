@@ -5,7 +5,7 @@ Hello all,
 
 This repository includes pipelines, python codes, and the NGS data used in the research project. It is the exact copy of [another repository](https://github.com/CompGenomeLab/globalNERepair) which was creted and edited by me.
 
-You can find pipelines and codes in this repository but the links will direct you to [globalNERepair](https://github.com/CompGenomeLab/globalNERepair) repository which is the primary repo.
+You can find the pipelines and Python codes used in the research at this repository.
 
 # Project Aim
 Revealing one of the causes of genome-wide nucleotide excision repair heterogeneity mainly using histone markers.
