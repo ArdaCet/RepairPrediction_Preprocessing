@@ -199,4 +199,4 @@ To check out my [profile](https://github.com/ArdaCet)
 To reach me about any question please send me an [email](mailto:ardacetin_work@hotmail.com).
 
 # Licence
-This project is licensed under the MIT License [see](https://github.com/CompGenomeLab/globalNERepair/edit/master/LICENSE).
+This project is licensed under the MIT License [see](https://github.com/ArdaCet/RepairPrediction_Preprocessing/blob/main/LICENSE).
