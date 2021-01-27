@@ -80,7 +80,7 @@ To go to the preprocessing pipelines for the [XR-seq](https://github.com/ArdaCet
 
   * In each pipeline, should be run from top to bottom for once to create the outputs. Then, the second run should performed but this time just before getting read count numbers (before the _bedtools intersect_) [subsample](#Work-with-your-own-data) your corresponding file according to the minimum read number which should be determined by looking through all the sequencing files' read numbers. Here, you need to check all XR-seq, ChIP-seq, DNase-seq, and damage-seq raw reads to see which file has the smallest read coverage in other words number of reads.
 
-3. Downsampling should be applied on all the files except the one having the lowest read count (see Python_scripts directory and [Work with your own data](#Work-with-your-own-data) headings at the [README](https://github.com/CompGenomeLab/globalNERepair/edit/master/README.md) page). The number of read sampling value should equal to the file including the smallest number of reads.
+3. Downsampling should be applied on all the files except the one having the lowest read count (see Python_scripts directory and [Work with your own data](#Work-with-your-own-data) headings at the [README](https://github.com/ArdaCet/RepairPrediction_Preprocessing/blob/main/README.md) page). The number of read sampling value should equal to the file including the smallest number of reads.
  
   * After downsampling the corresponding [.BED](http://software.broadinstitute.org/software/igv/?q=book/export/html/16) file, find read overlaps using the subsampled data and continue to apply exact same steps as your first run.
  
