@@ -3,9 +3,9 @@ Key words: research, project, repository, NGS, data analysis, XR-seq, damage-seq
 
 Hello all,
 
-This repository includes pipelines, python codes, and the NGS data used in the research project. 
+This repository includes pipelines, python codes, and the NGS data used in the research project. It is the exact copy of [another repository](https://github.com/CompGenomeLab/globalNERepair) which was creted and edited by me.
 
-This repository is developed for analyzing genome-wide four NGS datasets which I have utilized during my master's thesis. This repository is not only including preprocessing pipelines but also includes python scripts as well.
+You can find pipelines and codes in this repository but the links will direct you to [globalNERepair](https://github.com/CompGenomeLab/globalNERepair) repository which is the primary repo.
 
 # Project Aim
 Revealing one of the causes of genome-wide nucleotide excision repair heterogeneity mainly using histone markers.
